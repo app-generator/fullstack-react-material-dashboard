@@ -1,6 +1,6 @@
 # Full-stack React Material Dashboard
 
-Full-stack version of React Material Dashboard, a premium design crafted by Creative-Tim now usable with multiple API Backend Servers: Node JS, Flask, Django. The UI comes with pre-configured JWT authentication powered by a Unified API Interface that makes this product compatible with more than one backend: Node JS, Flask, Django (FASTapi coming soon).
+Full-stack version of [React Material Dashboard](https://appseed.us/full-stack/react-material-dashboard), a premium design crafted by Creative-Tim now usable with multiple API Backend Servers: Node JS, Flask, Django. The UI comes with pre-configured JWT authentication powered by a Unified API Interface that makes this product compatible with more than one backend: Node JS, Flask, Django (FASTapi coming soon).
 
 > Features:
 
